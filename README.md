@@ -15,3 +15,8 @@ Client → Server → Database → Server → Client
 
 ## Screenshots
 ![Finova Data Viewer UI](screenshots/ui.png)
+![Finova Data Viewer UI](screenshots/git1.png)
+![Finova Data Viewer UI](screenshots/git2.png)
+![Finova Data Viewer UI](screenshots/git3.png)
+![Finova Data Viewer UI](screenshots/git4.png)
+![Finova Data Viewer UI](screenshots/git5.png)
