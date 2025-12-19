@@ -12,6 +12,7 @@ APIs: Fetch external data
 
 ## Diagram
 Client → Server → Database → Server → Client
+![Finova Architecture Diagram](screenshots/architecture-diagram.png)
 
 ## Screenshots
 ![Finova Data Viewer UI](screenshots/ui.png)
